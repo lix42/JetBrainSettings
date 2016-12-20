@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482269640879">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482271265258">
         <mark key="'" line="45" column="12" />
         <mark key="k" line="6" column="10" />
-        <mark key="[" line="77" column="15" />
-        <mark key="]" line="73" column="53" />
-        <mark key="." line="73" column="53" />
-        <mark key="^" line="73" column="53" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="78" column="23" />
+        <mark key="." line="78" column="23" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" timestamp="1482269378544">
         <mark key="'" line="61" column="51" />
@@ -25,11 +25,11 @@
       <jump line="61" column="51" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogY3JlYXRlIGEgZnVuY3Rpb24gdG8gcmV0dXJuIGFsbCBlbmFibGVkIENzc1NoZWV0cywgc28gd2UgZG9uJ3QgcGFzcyBpdCBpbiBhcyBwYXJhbWV0ZXIKICAgICAgY29tcGFyZVN0eWxlRGlmZihzaGVldCwgZnVuY3Rpb24gKGRpZmZzKSB7CiAgICAgICAgY29sbGVjdFJ1bGVzKHNoZWV0LCBkaWZmcywgbmV4dCk7CiAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gdHJ1ZTs=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ID0gdHJ1ZTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWlTdHlsZVw+</text>
@@ -38,38 +38,34 @@
         <text encoding="base64">ICAgICAgdmFyIGNvbXB1dGVkU3R5bGUgPSB3aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZShlbGVtKTsKICAgICAgdmFyIGZvbnRTZXR0aW5nID0gW10uZmlsdGVyLmNhbGwoY29tcHV0ZWRTdHlsZSwgZnVuY3Rpb24gKHN0eWxlS2V5KSB7CiAgICAgICAgcmV0dXJuIHN0eWxlS2V5WzBdICE9PSAnLScgJiYgc3R5bGVLZXkuaW5kZXhPZignZm9udCcpID4gLTE7CiAgICAgIH0pLnJlZHVjZShmdW5jdGlvbiAocHJldmlvdXMsIHN0eWxlS2V5KSB7CiAgICAgICAgcHJldmlvdXNbc3R5bGVLZXldID0gY29tcHV0ZWRTdHlsZVtzdHlsZUtleV07CiAgICAgICAgcmV0dXJuIHByZXZpb3VzOwogICAgICB9LCB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogY3JlYXRlIGEgZnVuY3Rpb24gdG8gcmV0dXJuIGFsbCBlbmFibGVkIENzc1NoZWV0cywgc28gd2UgZG9uJ3QgcGFzcyBpdCBpbiBhcyBwYXJhbWV0ZXIKICAgICAgY29tcGFyZVN0eWxlRGlmZihzaGVldCwgZnVuY3Rpb24gKGRpZmZzKSB7CiAgICAgICAgY29sbGVjdFJ1bGVzKHNoZWV0LCBkaWZmcywgbmV4dCk7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">W10uZmlsdGVyLmNhbGwoY29tcHV0ZWRTdHlsZSwgZnVuY3Rpb24gKHN0eWxlS2V5KSB7CiAgICAgICAgcmV0dXJuIHN0eWxlS2V5WzBdICE9PSAnLScgJiYgc3R5bGVLZXkuaW5kZXhPZignZm9udCcpID4gLTE7CiAgICAgIH0pLnJlZHVjZShmdW5jdGlvbiAocHJldmlvdXMsIHN0eWxlS2V5KSB7CiAgICAgICAgcHJldmlvdXNbc3R5bGVLZXldID0gY29tcHV0ZWRTdHlsZVtzdHlsZUtleV07CiAgICAgICAgcmV0dXJuIHByZXZpb3VzOwogICAgICB9LCB7fSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNvbXB1dGVkU3R5bGUgPSB3aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZShlbGVtKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogY3JlYXRlIGEgZnVuY3Rpb24gdG8gcmV0dXJuIGFsbCBlbmFibGVkIENzc1NoZWV0cywgc28gd2UgZG9uJ3QgcGFzcyBpdCBpbiBhcyBwYXJhbWV0ZXIKICAgICAgY29tcGFyZVN0eWxlRGlmZihzaGVldCwgZnVuY3Rpb24gKGRpZmZzKSB7CiAgICAgICAgY29sbGVjdFJ1bGVzKHNoZWV0LCBkaWZmcywgbmV4dCk7CiAgICAgIH0pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">W10uZmlsdGVyLmNhbGwoY29tcHV0ZWRTdHlsZSwgZnVuY3Rpb24gKHN0eWxlS2V5KSB7CiAgICAgICAgcmV0dXJuIHN0eWxlS2V5WzBdICE9PSAnLScgJiYgc3R5bGVLZXkuaW5kZXhPZignZm9udCcpID4gLTE7CiAgICAgIH0pLnJlZHVjZShmdW5jdGlvbiAocHJldmlvdXMsIHN0eWxlS2V5KSB7CiAgICAgICAgcHJldmlvdXNbc3R5bGVLZXldID0gY29tcHV0ZWRTdHlsZVtzdHlsZUtleV07CiAgICAgICAgcmV0dXJuIHByZXZpb3VzOwogICAgICB9LCB7fSk7</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGNvbXB1dGVkU3R5bGUgPSB3aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZShlbGVtKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>,
     auiPropertiesSetupPercentage: 0,
     nonAuiPropertiesSetupPercentage: 0,
     topSettingProperties: ''</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhc2VQcm9wc0NvdW50OiAwLAogICAgYmFzZTJBdWlDb3VudDogMCwKICAgIGF1aTJDdXN0b21lckNvdW50OiAwLAogICAgb3ZlcnJpZGluZ0VsZW1lbnRDb3VudDogMCwKICAgIGJhc2UyQ3VzdG9tZXJDb3VudDogMCwK</text>
-      </register>
-      <register name="8" type="4">
-        <text>, {
-      key: 'overridingRules',
-      value: 0,
-      metricsName: 'metrics: # non-AUI CSS rules lands on AUI elements'
-    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmdW4K</text>
+        <text encoding="base64">ICAgIGJhc2VQcm9wc0NvdW50OiAwLAogICAgYmFzZTJBdWlDb3VudDogMCwKICAgIGF1aTJDdXN0b21lckNvdW50OiAwLAogICAgb3ZlcnJpZGluZ0VsZW1lbnRDb3VudDogMCwKICAgIGJhc2UyQ3VzdG9tZXJDb3VudDogMCwK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
