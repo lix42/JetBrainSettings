@@ -1,0 +1,67 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482192672967">
+        <mark key="'" line="40" column="12" />
+        <mark key="k" line="6" column="10" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="24" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="53" column="12" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>,
+    auiPropertiesSetupPercentage: 0,
+    nonAuiPropertiesSetupPercentage: 0,
+    topSettingProperties: ''</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhc2VQcm9wc0NvdW50OiAwLAogICAgYmFzZTJBdWlDb3VudDogMCwKICAgIGF1aTJDdXN0b21lckNvdW50OiAwLAogICAgb3ZlcnJpZGluZ0VsZW1lbnRDb3VudDogMCwKICAgIGJhc2UyQ3VzdG9tZXJDb3VudDogMCwK</text>
+      </register>
+      <register name="4" type="4">
+        <text>, {
+      key: 'overridingRules',
+      value: 0,
+      metricsName: 'metrics: # non-AUI CSS rules lands on AUI elements'
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmdW4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>FontOverriding</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>shift meta pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

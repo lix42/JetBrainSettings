@@ -1,0 +1,44 @@
+<application>
+  <component name="DiffManager">
+    <enableMerge value="true" />
+    <filesTool value="/usr/local/bin/bcomp" newValue="/usr/local/bin/bcomp" />
+    <mergeTool value="/usr/local/bin/bcomp" newValue="/usr/local/bin/bcomp" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="false" />
+    <option name="DIFF_EXE_PATH" value="/usr/local/bin/bcomp" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/usr/local/bin/bcomp" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+</application>

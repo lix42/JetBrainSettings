@@ -1,0 +1,6 @@
+<templateSet group="Dart surround">
+  <template name="B" value="{$SELECTION$}" description="Surround with {}" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="I" value="for ($VAR$ in $SELECTION$) {&#10;  $END$&#10;}" description="Iterate (for..in)" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR" expression="dartSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>
