@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482278774840">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482279951142">
         <mark key="'" line="38" column="59" />
         <mark key="k" line="6" column="10" />
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="68" column="49" />
-        <mark key="." line="68" column="49" />
-        <mark key="^" line="65" column="7" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="92" column="6" />
+        <mark key="." line="60" column="8" />
+        <mark key="^" line="60" column="8" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1482272597218">
         <mark key="[" line="300" column="8" />
@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" timestamp="1482278771191">
         <mark key="'" line="61" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1482272598211">
+      <file name="/a.dummy" timestamp="1482279780813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/assets.yml" timestamp="1482274812722">
@@ -27,6 +27,7 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" timestamp="1482279790633" />
       <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_class.js" timestamp="1482253189184" />
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_tasks.js" timestamp="1482272668246">
         <mark key="[" line="12" column="33" />
@@ -51,11 +52,11 @@
       <jump line="38" column="59" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>utils.removePseudoSelector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHV0aWxzLndhaXRUaGVuKGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIGNzc0ZpbGUgPSB7CiAgICAgICAgbmFtZTogc2hlZXQubmFtZSgpLAogICAgICAgIHJ1bGVzOiBbXQogICAgICB9OwogICAgICByZXBvcnQubG9nU3VidGFzaygnY2hlY2tpbmcgYW55IHJ1bGUgbWF5IGNoYW5nZSBmb250IHNldHRpbmcnKTsKICAgICAgc2hlZXQuZm9yRWFjaFJ1bGUoZnVuY3Rpb24ocnVsZSkgewogICAgICAgIHZhciBzZWxlY3RvciA9IGNzc1Rvb2xzLnJlbW92ZVBzZXVkb1NlbGVjdG9yKHJ1bGUuc2VsZWN0b3JUZXh0KTsKICAgICAgICB2YXIgY3NzVGV4dCA9IHJ1bGUuY3NzVGV4dDsKICAgICAgICB2YXIgY3NzU2V0dGluZyA9IGNzc1RleHQuc2xpY2UocnVsZS5zZWxlY3RvclRleHQubGVuZ3RoICsgMSk7CiAgICAgICAgaWYoY3NzU2V0dGluZy5pbmRleE9mKCdmb250JykgPiAtMSkgewogICAgICAgICAgcmVwb3J0LmxvZ0xpbmUoJ2ZvdW5kIHJ1bGU6ICcgKyBjc3NUZXh0KTsKICAgICAgICAgIGZvcih2YXIgZWxlbUluZGV4ID0gMCwgZWxlbUxlbmd0aCA9IGFsbEVsZW1lbnRzLmxlbmd0aDsgZWxlbUluZGV4IDwgZWxlbUxlbmd0aDsgZWxlbUluZGV4KyspIHsKICAgICAgICAgICAgcmVwb3J0LmxvZ1N1YnRhc2soJ3NjYW4gZWxlbWVudHM6ICcgKyB1dGlscy5jYWxjdWxhdGVQZXJjZW50YWdlKGVsZW1JbmRleCwgYWxsRWxlbWVudHMubGVuZ3RoKSk7CiAgICAgICAgICAgIHZhciBlbGVtSW5mbyA9IGFsbEVsZW1lbnRzW2VsZW1JbmRleF07CiAgICAgICAgICAgIHZhciBlbGVtZW50ID0gZWxlbUluZm8uZWxlbWVudDsKICAgICAgICAgICAgaWYodXRpbHMubWF0Y2hlc1NlbGVjdG9yKGVsZW1lbnQsIHNlbGVjdG9yKSB8fCB1dGlscy5tYXRjaGVzU2VsZWN0b3IoZWxlbWVudCwgcnVsZS5zZWxlY3RvclRleHQpKSB7CiAgICAgICAgICAgICAgdmFyIG5ld0ZvbnRTZXR0aW5nID0gZmV0Y2hGb250U2V0dGluZ3MoZWxlbWVudCk7CiAgICAgICAgICAgICAgdmFyIGRpZmYgPSBjc3NUb29scy5kaWZmUHJvcGVydGllcyhlbGVtSW5mby5mb250U2V0dGluZywgbmV3Rm9udFNldHRpbmcpOwogICAgICAgICAgICAgIGlmIChkaWZmICYmIGRpZmYubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICByZXN1bHQuY3NzUnVsZXNDb3VudCsrOwogICAgICAgICAgICAgICAgY3NzRmlsZS5ydWxlcy5wdXNoKGNzc1RleHQpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KTsKICAgICAgaWYoY3NzRmlsZS5ydWxlcy5sZW5ndGgpIHsKICAgICAgICByZXN1bHQub3ZlcnJpZGVzLnB1c2goY3NzRmlsZSk7CiAgICAgIH0KICAgICAgbmV4dCgpOwogICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>utils.removePseudoSelector</text>
+        <text>tils.diffProperties</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWlTdHlsZVw+</text>
@@ -64,31 +65,31 @@
         <text>utils.removePseudoSelector</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQubG9nTGluZSgnQ1NTIG5hbWU6ICcgKyBzaGVldC5uYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBkaWZmcyA9IHt9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcG9ydC5sb2dMaW5lKGNzc1RleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnQubG9nTGluZSgnQ1NTIG5hbWU6ICcgKyBzaGVldC5uYW1lKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5jc3NSdWxlc0NvdW50Kys7CiAgICAgICAgICBjc3NGaWxlLnJ1bGVzLnB1c2goY3NzVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcG9ydC5sb2dMaW5lKGNzc1RleHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmZzW2VsZW1JbmRleF0gPSBkaWZmOwogICAgICAgICAgICAgICAgZWxlbUluZm8uZWxlbWVudC5jbGFzc0xpc3QuYWRkKCdtZXRyaWNzLWF1aS1mb250LW92ZXJyaWRkZW4nKTsKICAgICAgICAgICAgICAgIGVsZW1JbmZvLmZvbnRTZXR0aW5nID0gbmV3Rm9udFNldHRpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5jc3NSdWxlc0NvdW50Kys7CiAgICAgICAgICBjc3NGaWxlLnJ1bGVzLnB1c2goY3NzVGV4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmZzW2VsZW1JbmRleF0gPSBkaWZmOwogICAgICAgICAgICAgICAgZWxlbUluZm8uZWxlbWVudC5jbGFzc0xpc3QuYWRkKCdtZXRyaWNzLWF1aS1mb250LW92ZXJyaWRkZW4nKTsKICAgICAgICAgICAgICAgIGVsZW1JbmZvLmZvbnRTZXR0aW5nID0gbmV3Rm9udFNldHRpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsbEVsZW1lbnRzLmZvckVhY2goZnVuY3Rpb24oZWxlbUluZm8sIGVsZW1JbmRleCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbEVsZW1lbnRzLmZvckVhY2goZnVuY3Rpb24oZWxlbUluZm8sIGVsZW1JbmRleCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld0ZvbnRTZXR0aW5nID0gZmV0Y2hGb250U2V0dGluZ3MoZWxlbWVudCk7CiAgICAgICAgICAgIHZhciBkaWZmID0gdXRpbHMuZGlmZlByb3BlcnRpZXMoZWxlbUluZm8uZm9udFNldHRpbmcsIG5ld0ZvbnRTZXR0aW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld0ZvbnRTZXR0aW5nID0gZmV0Y2hGb250U2V0dGluZ3MoZWxlbWVudCk7CiAgICAgICAgICAgIHZhciBkaWZmID0gdXRpbHMuZGlmZlByb3BlcnRpZXMoZWxlbUluZm8uZm9udFNldHRpbmcsIG5ld0ZvbnRTZXR0aW5nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
