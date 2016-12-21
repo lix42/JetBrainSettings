@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482281621860">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" timestamp="1482283040432">
         <mark key="'" line="32" column="59" />
         <mark key="k" line="6" column="10" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="21" column="25" />
+        <mark key="[" line="32" column="84" />
+        <mark key="]" line="32" column="88" />
+        <mark key="^" line="32" column="88" />
+        <mark key="." line="32" column="88" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1482272597218">
         <mark key="[" line="300" column="8" />
@@ -53,43 +53,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fontSetting;</text>
+        <text>allElements</text>
       </register>
       <register name="-" type="4">
-        <text>fontSetting;</text>
+        <text>allElements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWlTdHlsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>utils.removePseudoSelector</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHV0aWxzLmVuYWJsZVN0eWxlU2hlZXRzKHNoZWV0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBmb250U2V0dGluZyA9IFtdLmZpbHRlci5jYWxsKGNvbXB1dGVkU3R5bGUsIGZ1bmN0aW9uIChzdHlsZUtleSkgewogICAgICByZXR1cm4gc3R5bGVLZXlbMF0gIT09ICctJyAmJiBzdHlsZUtleS5pbmRleE9mKCdmb250LWZhbWlseScpID4gLTE7CiAgICB9KS5yZWR1Y2UoZnVuY3Rpb24gKHByZXZpb3VzLCBzdHlsZUtleSkgewogICAgICBwcmV2aW91c1tzdHlsZUtleV0gPSBjb21wdXRlZFN0eWxlW3N0eWxlS2V5XTsKICAgICAgcmV0dXJuIHByZXZpb3VzOwogICAgfSwge30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmVsZW1QZXJjZW50YWdlID0gdXRpbHMuY2FsY3VsYXRlUGVyY2VudGFnZShkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcubWV0cmljcy1hdWktZm9udC1vdmVycmlkZGVuJykubGVuZ3RoLCBhbGxFbGVtZW50cy5sZW5ndGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkaWZmcyA9IHt9Owo=</text>
+        <text encoding="base64">ICAgIHNoZWV0LmVuYWJsZSgpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQubG9nTGluZSgnQ1NTIG5hbWU6ICcgKyBzaGVldC5uYW1lKCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZgogICAgICAgICAgICAgIHZhciBkaWZmID0gY3NzVG9vbHMuZGlmZlByb3BlcnRpZXMoZWxlbUluZm8uZm9udFNldHRpbmcsIG5ld0ZvbnRTZXR0aW5nKTsKICAgICAgICAgICAgICBpZiAoZGlmZiAmJiBkaWZmLmxlbmd0aCkgew==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcG9ydC5sb2dMaW5lKGNzc1RleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5jc3NSdWxlc0NvdW50Kys7CiAgICAgICAgICBjc3NGaWxlLnJ1bGVzLnB1c2goY3NzVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodXRpbHMubWF0Y2hlc1NlbGVjdG9yKGVsZW1lbnQsIHNlbGVjdG9yKSB8fCB1dGlscy5tYXRjaGVzU2VsZWN0b3IoZWxlbWVudCwgcnVsZS5zZWxlY3RvclRleHQpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmZzW2VsZW1JbmRleF0gPSBkaWZmOwogICAgICAgICAgICAgICAgZWxlbUluZm8uZWxlbWVudC5jbGFzc0xpc3QuYWRkKCdtZXRyaWNzLWF1aS1mb250LW92ZXJyaWRkZW4nKTsKICAgICAgICAgICAgICAgIGVsZW1JbmZvLmZvbnRTZXR0aW5nID0gbmV3Rm9udFNldHRpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVsZW1lbnQgPSBlbGVtSW5mby5lbGVtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVsZW1JbmZvID0gYWxsRWxlbWVudHNbZWxlbUluZGV4XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsbEVsZW1lbnRzLmZvckVhY2goZnVuY3Rpb24oZWxlbUluZm8sIGVsZW1JbmRleCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcG9ydC5sb2dMaW5lKCdmb3VuZCBydWxlOiAnICsgY3NzVGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgYWxsRWxlbWVudHMgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
