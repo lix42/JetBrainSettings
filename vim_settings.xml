@@ -18,14 +18,23 @@
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" timestamp="1482278771191">
         <mark key="'" line="61" column="51" />
       </file>
+      <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" timestamp="1483644866233">
+        <mark key="'" line="179" column="3" />
+      </file>
+      <file name="/a.dummy" timestamp="1483476779455">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_tasks.js" timestamp="1482272668246">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/phantomRun.js" timestamp="1482285046704">
         <mark key="[" line="80" column="33" />
         <mark key="]" line="80" column="36" />
         <mark key="." line="80" column="36" />
         <mark key="^" line="80" column="36" />
-      </file>
-      <file name="/a.dummy" timestamp="1483476779455">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/utils/_object.js" timestamp="1483467649481" />
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/assets.yml" timestamp="1482274812722">
@@ -33,12 +42,6 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_tasks.js" timestamp="1482272668246">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" timestamp="1482285552440">
         <mark key="'" line="2" column="222" />
@@ -63,6 +66,13 @@
       <jump line="90" column="13" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" />
       <jump line="38" column="59" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_font_overriding_analytics.js" />
       <jump line="2" column="222" filename="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" />
+      <jump line="42" column="28" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="191" column="8" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="38" column="11" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="62" column="116" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="124" column="4" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="149" column="4" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="179" column="3" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -72,7 +82,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWlTdHlsZVw+</text>
+        <text encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHV0aWxzLmVuYWJsZVN0eWxlU2hlZXRzKHNoZWV0KTsK</text>
@@ -109,15 +119,17 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdWlTdHlsZVw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWlTdHlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxhdWlTdHlsZVw+</entry>
+        <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
