@@ -18,8 +18,12 @@
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" timestamp="1482278771191">
         <mark key="'" line="61" column="51" />
       </file>
-      <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" timestamp="1483644866233">
-        <mark key="'" line="179" column="3" />
+      <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" timestamp="1483656766637">
+        <mark key="'" line="12" column="66" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1483476779455">
         <mark key="[" line="0" column="0" />
@@ -73,16 +77,18 @@
       <jump line="124" column="4" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
       <jump line="149" column="4" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
       <jump line="179" column="3" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="33" column="3" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
+      <jump line="12" column="66" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</text>
+        <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHV0aWxzLmVuYWJsZVN0eWxlU2hlZXRzKHNoZWV0KTsK</text>
@@ -119,9 +125,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</last-search>
+      <last-search encoding="base64">XDxjb25zdGFudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdGFudHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -130,6 +136,7 @@
         <entry encoding="base64">XDxhdWlTdHlsZVw+</entry>
         <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</entry>
+        <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
