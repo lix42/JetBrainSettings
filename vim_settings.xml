@@ -59,11 +59,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483729206317">
-        <mark key="[" line="84" column="58" />
-        <mark key="]" line="85" column="4" />
-        <mark key="^" line="85" column="4" />
-        <mark key="." line="85" column="4" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483730316864">
+        <mark key="[" line="91" column="40" />
+        <mark key="]" line="92" column="30" />
+        <mark key="^" line="92" column="30" />
+        <mark key="." line="92" column="30" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" timestamp="1482285552440">
         <mark key="'" line="1" column="222" />
@@ -100,10 +100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
