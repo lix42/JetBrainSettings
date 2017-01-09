@@ -78,11 +78,11 @@
         <mark key="." line="73" column="50" />
         <mark key="^" line="73" column="50" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483986073850">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483986785719">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" timestamp="1482285552440">
         <mark key="'" line="1" column="222" />
@@ -118,11 +118,11 @@
       <jump line="12" column="66" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvdWxkID0K</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
