@@ -11,8 +11,11 @@
         <mark key="." line="124" column="20" />
         <mark key="^" line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/Config" timestamp="1483985258828">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/Config" timestamp="1483991005636">
         <mark key="[" line="79" column="0" />
+        <mark key="]" line="54" column="25" />
+        <mark key="^" line="54" column="25" />
+        <mark key="." line="54" column="25" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1482272597218">
         <mark key="[" line="300" column="8" />
@@ -72,17 +75,17 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483983249352">
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="73" column="50" />
-        <mark key="." line="73" column="50" />
-        <mark key="^" line="73" column="50" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483991375685">
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="59" />
+        <mark key="." line="84" column="59" />
+        <mark key="^" line="84" column="59" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483987929244">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483990988266">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" timestamp="1482285552440">
         <mark key="'" line="1" column="222" />
@@ -118,11 +121,11 @@
       <jump line="12" column="66" filename="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/a_state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICh0eXBlb2YgbmFtZSkuc2hvdWxkLmVxdWFsKCdhcnJheScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>expect</text>
       </register>
       <register name="-" type="4">
-        <text>chai</text>
+        <text>expect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
