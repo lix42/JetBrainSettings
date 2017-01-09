@@ -37,11 +37,16 @@
       <file name="/a.dummy" timestamp="1483476779455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/.eslintrc" timestamp="1483982923874">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/.eslintrc" timestamp="1483983162133">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
         <mark key="^" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/tasks/clean.js" timestamp="1483983007066">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_tasks.js" timestamp="1482272668246">
         <mark key="[" line="12" column="33" />
@@ -55,7 +60,6 @@
         <mark key="." line="80" column="36" />
         <mark key="^" line="80" column="36" />
       </file>
-      <file name="$USER_HOME$/src/aui/src/AmazonUIBaseJS/src/utils/_object.js" timestamp="1483467649481" />
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/happy-npm-build" timestamp="1483728900220">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="33" />
@@ -68,10 +72,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483981311929">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483983249352">
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="73" column="50" />
+        <mark key="." line="73" column="50" />
+        <mark key="^" line="73" column="50" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/wikiReportConfig.json" timestamp="1482285552440">
         <mark key="'" line="1" column="222" />
@@ -108,7 +113,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9mbG93LW9iamVjdC10eXBlIjogMSwK</text>
+        <text encoding="base64">dmFyIGd1bHAgPSByZXF1aXJlKCdndWxwJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -120,34 +125,34 @@
         <text encoding="base64">ICAgIHV0aWxzLmVuYWJsZVN0eWxlU2hlZXRzKHNoZWV0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9mbG93LW9iamVjdC10eXBlIjogMSwK</text>
+        <text encoding="base64">dmFyIGd1bHAgPSByZXF1aXJlKCdndWxwJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW46bG9kYXNoL3JlY29tbWVuZGVkIiwKICAgICJwbHVnaW46Zmxvd3R5cGUvcmVjb21tZW5kZWQiCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC9mbG93LW9iamVjdC10eXBlIjogMSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwbHVnaW46bG9kYXNoL3JlY29tbWVuZGVkIiwKICAgICJwbHVnaW46Zmxvd3R5cGUvcmVjb21tZW5kZWQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRvIGhhdmUgdGhlIHByb2Nlc3MgZXhpdCB3aXRoIGFuIGVycm9yIGNvZGUgKDEpIG9uCiAgICAvLyBsaW50IGVycm9yLCByZXR1cm4gdGhlIHN0cmVhbSBhbmQgcGlwZSB0byBmYWlsQWZ0ZXJFcnJvciBsYXN0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC5mb3JtYXQoKSBvdXRwdXRzIHRoZSBsaW50IHJlc3VsdHMgdG8gdGhlIGNvbnNvbGUuCiAgICAvLyBBbHRlcm5hdGl2ZWx5IHVzZSBlc2xpbnQuZm9ybWF0RWFjaCgpIChzZWUgRG9jcykuCg==</text>
+        <text encoding="base64">ICAgIC8vIFRvIGhhdmUgdGhlIHByb2Nlc3MgZXhpdCB3aXRoIGFuIGVycm9yIGNvZGUgKDEpIG9uCiAgICAvLyBsaW50IGVycm9yLCByZXR1cm4gdGhlIHN0cmVhbSBhbmQgcGlwZSB0byBmYWlsQWZ0ZXJFcnJvciBsYXN0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBlc2xpbnQoKSBhdHRhY2hlcyB0aGUgbGludCBvdXRwdXQgdG8gdGhlICJlc2xpbnQiIHByb3BlcnR5CiAgLy8gb2YgdGhlIGZpbGUgb2JqZWN0IHNvIGl0IGNhbiBiZSB1c2VkIGJ5IG90aGVyIG1vZHVsZXMuCg==</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludC5mb3JtYXQoKSBvdXRwdXRzIHRoZSBsaW50IHJlc3VsdHMgdG8gdGhlIGNvbnNvbGUuCiAgICAvLyBBbHRlcm5hdGl2ZWx5IHVzZSBlc2xpbnQuZm9ybWF0RWFjaCgpIChzZWUgRG9jcykuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBFU0xpbnQgaWdub3JlcyBmaWxlcyB3aXRoICJub2RlX21vZHVsZXMiIHBhdGhzLgogIC8vIFNvLGtqIGl0J3MgYmVzdCB0byBoYXZlIGd1bHAgaWdub3JlIHRoZSBkaXJlY3RvcnkgYXMgd2VsbC4KICAvLyBBbHNvLCBCZSBzdXJlIHRvIHJldHVybiB0aGUgc3RyZWFtIGZyb20gdGhlIHRhc2s7CiAgLy8gT3RoZXJ3aXNlLCB0aGUgdGFzayBtYXkgZW5kIGJlZm9yZSB0aGUgc3RyZWFtIGhhcyBmaW5pc2hlZC4K</text>
+        <text encoding="base64">ICAvLyBlc2xpbnQoKSBhdHRhY2hlcyB0aGUgbGludCBvdXRwdXQgdG8gdGhlICJlc2xpbnQiIHByb3BlcnR5CiAgLy8gb2YgdGhlIGZpbGUgb2JqZWN0IHNvIGl0IGNhbiBiZSB1c2VkIGJ5IG90aGVyIG1vZHVsZXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYnVpbGRXZWJwYWNrKGRvbmUpIHsKICB3ZWJwYWNrKHdlYnBhY2tDb25maWcpLnJ1bihvbkJ1aWxkKGRvbmUpKTsKfQo=</text>
+        <text encoding="base64">ICAvLyBFU0xpbnQgaWdub3JlcyBmaWxlcyB3aXRoICJub2RlX21vZHVsZXMiIHBhdGhzLgogIC8vIFNvLGtqIGl0J3MgYmVzdCB0byBoYXZlIGd1bHAgaWdub3JlIHRoZSBkaXJlY3RvcnkgYXMgd2VsbC4KICAvLyBBbHNvLCBCZSBzdXJlIHRvIHJldHVybiB0aGUgc3RyZWFtIGZyb20gdGhlIHRhc2s7CiAgLy8gT3RoZXJ3aXNlLCB0aGUgdGFzayBtYXkgZW5kIGJlZm9yZSB0aGUgc3RyZWFtIGhhcyBmaW5pc2hlZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pZihwcm9jZXNzLmVudi5OT0RFX0VOViAhPT0gJ3Byb2R1Y3Rpb24nKSB7CiAgLy93ZWJwYWNrQ29uZmlnLmRldnRvb2wgPSAnaW5saW5lLXNvdXJjZS1tYXAnOwogIC8vd2VicGFja0NvbmZpZy5kZWJ1ZyA9IHRydWU7Ci8vfQoK</text>
+        <text encoding="base64">ZnVuY3Rpb24gYnVpbGRXZWJwYWNrKGRvbmUpIHsKICB3ZWJwYWNrKHdlYnBhY2tDb25maWcpLnJ1bihvbkJ1aWxkKGRvbmUpKTsKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -166,6 +171,7 @@
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
