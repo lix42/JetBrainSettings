@@ -17,10 +17,10 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="54" column="25" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/index.js" timestamp="1483996780394">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/index.js" timestamp="1484002495500">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/consoleLogger.js" timestamp="1483997269994">
         <mark key="[" line="11" column="19" />
@@ -50,6 +50,12 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/gulpfile.js" timestamp="1484002421756">
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="86" column="44" />
+        <mark key="." line="86" column="44" />
+        <mark key="^" line="86" column="17" />
+      </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/tasks/clean.js" timestamp="1483983007066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -74,11 +80,11 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/Config" timestamp="1483996745681">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/Config" timestamp="1484001893685">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/phantomRun.js" timestamp="1484000525165">
         <mark key="'" line="186" column="11" />
@@ -149,43 +155,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, 'lint', 'test'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cFBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLmVuYWJsZVN0eWxlU2hlZXRzKHNoZWV0KTsK</text>
+        <text encoding="base64">Z3VscC50YXNrKCdyZWxlYXNlJywgWydjb3B5SW5kZXgnLCAnd2VicGFjaycsICdsaW50JywgJ3Rlc3QnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Wy4uLnByb2Nlc3MuYXJndl0uZm9yRWFjaCgoYXJnLCBpKSA9PiB7CiAgY29uc29sZS5sb2coYCR7aX06ICR7YXJnfWApOwp9KTsKCnByb2Nlc3MuZXhpdCgwKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgZm9yY2VKdW1wZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgYmluUm9vdFBhdGggPSBmcy5hYnNvbHV0ZSgnLi4nKTsKICB2YXIgd29ya2luZ1BhdGggPSBmcy53b3JraW5nRGlyZWN0b3J5OwoKICBpZiAoc3lzdGVtLmVudi5BUE9MTE9fRU5WSVJPTk1FTlRfUk9PVCAmJiBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCkgewogICAgYmluUm9vdFBhdGggPSBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCArICcvY29tbW9uanMvYW1hem9udWktbWV0cmljcy1ydW5lcic7CiAgICB3b3JraW5nUGF0aCA9IHN5c3RlbS5lbnYuQVBPTExPX0VOVklST05NRU5UX1JPT1Q7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICh0eXBlb2YgbmFtZSkuc2hvdWxkLmVxdWFsKCdhcnJheScpOwo=</text>
+        <text encoding="base64">ICB2YXIgZm9yY2VKdW1wZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNoYWkuc2hvdWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvdWxkID0K</text>
+        <text encoding="base64">ICB2YXIgYmluUm9vdFBhdGggPSBmcy5hYnNvbHV0ZSgnLi4nKTsKICB2YXIgd29ya2luZ1BhdGggPSBmcy53b3JraW5nRGlyZWN0b3J5OwoKICBpZiAoc3lzdGVtLmVudi5BUE9MTE9fRU5WSVJPTk1FTlRfUk9PVCAmJiBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCkgewogICAgYmluUm9vdFBhdGggPSBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCArICcvY29tbW9uanMvYW1hem9udWktbWV0cmljcy1ydW5lcic7CiAgICB3b3JraW5nUGF0aCA9IHN5c3RlbS5lbnYuQVBPTExPX0VOVklST05NRU5UX1JPT1Q7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
