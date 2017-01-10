@@ -22,7 +22,7 @@
         <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/collectorRunner.js" timestamp="1484004145751" />
-      <file name="/a.dummy" timestamp="1484004469471">
+      <file name="/a.dummy" timestamp="1484007992728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/gulpfile.js" timestamp="1484002421756">
@@ -30,6 +30,12 @@
         <mark key="]" line="86" column="44" />
         <mark key="." line="86" column="44" />
         <mark key="^" line="86" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_markup_analytics/a_markup_analytics.test.js" timestamp="1484008111602" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_markup_analytics/a_markup_analytics.test.html.erb" timestamp="1484008180243">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/polyfill.js" timestamp="1483997884381">
         <mark key="'" line="25" column="8" />
@@ -63,11 +69,15 @@
         <mark key="." line="80" column="48" />
         <mark key="^" line="80" column="48" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1484004712993">
-        <mark key="[" line="259" column="9" />
-        <mark key="]" line="266" column="20" />
-        <mark key="." line="266" column="20" />
-        <mark key="^" line="266" column="20" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" timestamp="1484007676336">
+        <mark key="[" line="104" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1484007885746">
+        <mark key="'" line="165" column="25" />
+        <mark key="[" line="186" column="19" />
+        <mark key="]" line="188" column="48" />
+        <mark key="." line="188" column="48" />
+        <mark key="^" line="188" column="48" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/consoleLogger.js" timestamp="1483997269994">
         <mark key="[" line="11" column="19" />
@@ -80,6 +90,11 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_metrics_nodelist/a_metrics_nodelist.test.js" timestamp="1484008322827">
+        <mark key="[" line="156" column="60" />
+        <mark key="]" line="156" column="61" />
+        <mark key="." line="156" column="61" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/.eslintrc" timestamp="1483983162133">
         <mark key="[" line="20" column="18" />
@@ -151,55 +166,66 @@
       <jump line="80" column="36" filename="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/phantomRun.js" />
       <jump line="23" column="8" filename="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/polyfill.js" />
       <jump line="186" column="11" filename="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/phantomRun.js" />
+      <jump line="181" column="8" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="183" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="184" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="185" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="186" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="187" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="182" column="28" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="197" column="19" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="30" column="12" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="31" column="31" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="166" column="25" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text encoding="base64">IHRoZXJlIGlzIGEgYnVnIG9mIHRoZSB0ZXN0ZnJhbWV3b3JrLCBpdCBzaG91bGQgYmUgMywgYnV0IHRlc3QgZnJhbWV3b3JrIGluamVjdCBvbmUgbW9yZSBkaXY=</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text encoding="base64">IHRoZXJlIGlzIGEgYnVnIG9mIHRoZSB0ZXN0ZnJhbWV3b3JrLCBpdCBzaG91bGQgYmUgMywgYnV0IHRlc3QgZnJhbWV3b3JrIGluamVjdCBvbmUgbW9yZSBkaXY=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cFBhZ2VcPg==</text>
+        <text encoding="base64">XDxtYXRjaGVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdyZWxlYXNlJywgWydjb3B5SW5kZXgnLCAnd2VicGFjaycsICdsaW50JywgJ3Rlc3QnXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>window.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Wy4uLnByb2Nlc3MuYXJndl0uZm9yRWFjaCgoYXJnLCBpKSA9PiB7CiAgY29uc29sZS5sb2coYCR7aX06ICR7YXJnfWApOwp9KTsKCnByb2Nlc3MuZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGUubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm9NYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLndlYmtpdE1hdGNoZXNTZWxlY3RvciB8fAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
+        <text encoding="base64">ICAgIHZhciBlbGVtUHJvdG8gPSB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGU7CiAgICB2YXIgbWF0Y2hlcyA9IGVsZW1Qcm90by5tYXRjaGVzIHx8CiAgICAgIGVsZW1Qcm90by5tYXRjaFNlbGVjdG9yIHx8CiAgICAgIGVsZW1Qcm90by53ZWJraXRNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICBlbGVtUHJvdG8ubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm9NYXRjaGVzU2VsZWN0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Wy4uLnByb2Nlc3MuYXJndl0uZm9yRWFjaCgoYXJnLCBpKSA9PiB7CiAgY29uc29sZS5sb2coYCR7aX06ICR7YXJnfWApOwp9KTsKCnByb2Nlc3MuZXhpdCgwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgZm9yY2VKdW1wZWQgPSBmYWxzZTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgYmluUm9vdFBhdGggPSBmcy5hYnNvbHV0ZSgnLi4nKTsKICB2YXIgd29ya2luZ1BhdGggPSBmcy53b3JraW5nRGlyZWN0b3J5OwoKICBpZiAoc3lzdGVtLmVudi5BUE9MTE9fRU5WSVJPTk1FTlRfUk9PVCAmJiBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCkgewogICAgYmluUm9vdFBhdGggPSBzeXN0ZW0uZW52LkxEX0xJQlJBUllfUEFUSCArICcvY29tbW9uanMvYW1hem9udWktbWV0cmljcy1ydW5lcic7CiAgICB3b3JraW5nUGF0aCA9IHN5c3RlbS5lbnYuQVBPTExPX0VOVklST05NRU5UX1JPT1Q7CiAgfQo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cFBhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxtYXRjaGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cFBhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRjaGVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -210,6 +236,8 @@
         <entry encoding="base64">XDx1cGRhdGVOYW1lc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxzZXR1cFBhZ2VcPg==</entry>
+        <entry encoding="base64">XDxlbGVtUHJvdG9cPg==</entry>
+        <entry encoding="base64">XDxtYXRjaGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -227,6 +255,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
