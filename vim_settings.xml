@@ -21,8 +21,13 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/collectorRunner.js" timestamp="1484004145751" />
-      <file name="/a.dummy" timestamp="1484007992728">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" timestamp="1484068167370">
+        <mark key="'" line="187" column="18" />
+        <mark key="[" line="187" column="12" />
+        <mark key="]" line="187" column="12" />
+        <mark key="." line="187" column="12" />
+      </file>
+      <file name="/a.dummy" timestamp="1484293263647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/gulpfile.js" timestamp="1484002421756">
@@ -31,7 +36,6 @@
         <mark key="." line="86" column="44" />
         <mark key="^" line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_markup_analytics/a_markup_analytics.test.js" timestamp="1484008111602" />
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_markup_analytics/a_markup_analytics.test.html.erb" timestamp="1484008180243">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="14" />
@@ -69,15 +73,17 @@
         <mark key="." line="80" column="48" />
         <mark key="^" line="80" column="48" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" timestamp="1484007676336">
-        <mark key="[" line="104" column="57" />
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" timestamp="1484071567200">
+        <mark key="[" line="117" column="10" />
+        <mark key="]" line="118" column="46" />
+        <mark key="." line="118" column="46" />
+        <mark key="^" line="118" column="46" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1484007885746">
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1484071143862">
         <mark key="'" line="165" column="25" />
-        <mark key="[" line="186" column="19" />
-        <mark key="]" line="188" column="48" />
-        <mark key="." line="188" column="48" />
-        <mark key="^" line="188" column="48" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/consoleLogger.js" timestamp="1483997269994">
         <mark key="[" line="11" column="19" />
@@ -102,6 +108,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_page_info.js" timestamp="1484293294055" />
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/tasks/clean.js" timestamp="1483983007066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -112,6 +119,24 @@
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_markup_analytics.js" timestamp="1484293230238">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="55" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics_fast.js" timestamp="1484068187289">
+        <mark key="[" line="220" column="20" />
+        <mark key="]" line="220" column="20" />
+        <mark key="." line="220" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/createReport.js" timestamp="1484088474626">
+        <mark key="[" line="41" column="111" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/happy-npm-build" timestamp="1483728900220">
         <mark key="[" line="1" column="29" />
@@ -124,6 +149,13 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" timestamp="1484071337157">
+        <mark key="'" line="181" column="28" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="47" />
+        <mark key="." line="314" column="0" />
+        <mark key="^" line="168" column="1" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483990988266">
         <mark key="[" line="1" column="31" />
@@ -177,55 +209,102 @@
       <jump line="30" column="12" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
       <jump line="31" column="31" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
       <jump line="166" column="25" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" />
+      <jump line="2" column="72" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" />
+      <jump line="33" column="15" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" />
+      <jump line="187" column="18" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_css_overriding_analytics.js" />
+      <jump line="188" column="12" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="170" column="5" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="187" column="11" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="2" column="110" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="177" column="20" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="40" column="25" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="156" column="6" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="181" column="28" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" />
+      <jump line="32" column="21" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" />
+      <jump line="75" column="33" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" />
+      <jump line="12" column="13" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_markup_analytics.js" />
+      <jump line="87" column="28" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_markup_analytics.js" />
+      <jump line="66" column="13" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_markup_analytics.js" />
+      <jump line="107" column="4" filename="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/tasks/a_markup_analytics.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRoZXJlIGlzIGEgYnVnIG9mIHRoZSB0ZXN0ZnJhbWV3b3JrLCBpdCBzaG91bGQgYmUgMywgYnV0IHRlc3QgZnJhbWV3b3JrIGluamVjdCBvbmUgbW9yZSBkaXY=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoZXJlIGlzIGEgYnVnIG9mIHRoZSB0ZXN0ZnJhbWV3b3JrLCBpdCBzaG91bGQgYmUgMywgYnV0IHRlc3QgZnJhbWV3b3JrIGluamVjdCBvbmUgbW9yZSBkaXY=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaGVzXD4=</text>
+        <text encoding="base64">XDxwcm9jZXNzRnJvbVw+</text>
       </register>
       <register name="0" type="4">
-        <text>window.</text>
+        <text>createElementsFilter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUVsZW1lbnRzRmlsdGVyOiBjcmVhdGVFbGVtZW50c0ZpbHRlciwK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGUubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm9NYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLndlYmtpdE1hdGNoZXNTZWxlY3RvciB8fAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYSBmaWx0ZXIgZnVuY3Rpb24gYmFzZWQgb24gdGhlIGxpc3QKICAgKiBAcGFyYW0gZmlsdGVyTGlzdCB7c3RyaW5nW11bXX0gZmlsdGVyTGlzdCBpcyBhbiBhcnJheS4gRWFjaCBpdGVtIGNvdWxkIGJlIGFuIGFycmF5IG9mIHN0cmluZ3MsIG9yIGEgc3RyaW5nLgogICAqIEByZXR1cm5zIHtGdW5jdGlvbn0KICAgKiBleGFtcGxlOgogICAqICAgICB2YXIgbm9Db21wYXJlTGlzdCA9IFsKICAgKiAgICAgIFsnaHRtbCcsICdoZWlnaHQnLCAncGVyc3BlY3RpdmUtb3JpZ2luJywgJ3RyYW5zZm9ybS1vcmlnaW4nXSwKICAgKiAgICAgIFsnYm9keScsICdoZWlnaHQnLCAncGVyc3BlY3RpdmUtb3JpZ2luJywgJ3RyYW5zZm9ybS1vcmlnaW4nXSwKICAgKiAgICAgIFsnI2EtcGFnZScsICdoZWlnaHQnLCAncGVyc3BlY3RpdmUtb3JpZ2luJywgJ3RyYW5zZm9ybS1vcmlnaW4nXSwKICAgKiAgICAgIFsnRElWLmEtY29udGFpbmVyLmEtY29udGFpbmVyLXdpdGhvdXQtcGFkZGluZycsICdoZWlnaHQnLCAncGVyc3BlY3RpdmUtb3JpZ2luJywgJ3RyYW5zZm9ybS1vcmlnaW4nXSwKICAgKiAgICAgIFsnc2NyaXB0J10KICAgKiAgICAgXTsKICAgKiAgICAgIHZhciBza2lwQ29tcGFyZSA9IG5vZGVsaXN0LmNyZWF0ZUVsZW1lbnRzRmlsdGVyKG5vQ29tcGFyZUxpc3QpOwogICAqICAgICAgc2tpcENvbXBhcmUoPHNjcmlwdD4pID09PSB0cnVlCiAgICogICAgICBza2lwQ29tcGFyZSg8aHRtbD4pID09PSBmYWxzZQogICAqICAgICAgc2tpcENvbXBhcmUoPGh0bWw+LCAnaGVpZ2h0JykgPT09IHRydWUKICAgKi8KICBmdW5jdGlvbiBjcmVhdGVFbGVtZW50c0ZpbHRlcihmaWx0ZXJMaXN0KSB7CiAgICByZXR1cm4gZnVuY3Rpb24gKGVsZW0sIGtleSkgewogICAgICBpZiAoIWVsZW0pIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgICAgcmV0dXJuIGZpbHRlckxpc3QucmVkdWNlKGZ1bmN0aW9uIChwcmV2aW91cywgbGlzdCkgewogICAgICAgIGlmIChwcmV2aW91cykgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIC8vIGVhY2ggaXRlbSBvZiBmaWx0ZXJMaXN0IHNob3VsZCBiZSBhbiBhcnJheS4gSWYgbm90LCBjb3ZlcnQgaXQgdG8gYW4gYXJyYXkgd2l0aCAxIGl0ZW0uCiAgICAgICAgaWYgKHR5cGVvZiBsaXN0ID09PSAnc3RyaW5nJykgewogICAgICAgICAgbGlzdCA9IFtsaXN0XTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNzc1Rvb2xzLm1hdGNoZXNTZWxlY3RvcihlbGVtLCBsaXN0WzBdKSAmJiAobGlzdC5sZW5ndGggPT09IDEgfHwgKGtleSAmJiBsaXN0LmluZGV4T2YoCiAgICAgICAgICAgIGtleS50b0xvd2VyQ2FzZSgpKSkgPiAwKTsKICAgICAgfSwgZmFsc2UpOwogICAgfQogIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBlbGVtUHJvdG8gPSB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGU7CiAgICB2YXIgbWF0Y2hlcyA9IGVsZW1Qcm90by5tYXRjaGVzIHx8CiAgICAgIGVsZW1Qcm90by5tYXRjaFNlbGVjdG9yIHx8CiAgICAgIGVsZW1Qcm90by53ZWJraXRNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICBlbGVtUHJvdG8ubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm9NYXRjaGVzU2VsZWN0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzU2VsZWN0b3I6IG1hdGNoZXNTZWxlY3RvciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBlbGVtUHJvdG8gPSB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGU7CiAgICB2YXIgbWF0Y2hlcyA9IGVsZW1Qcm90by5tYXRjaGVzIHx8CiAgICAgIGVsZW1Qcm90by5tYXRjaFNlbGVjdG9yIHx8CiAgICAgIGVsZW1Qcm90by53ZWJraXRNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICBlbGVtUHJvdG8ubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm9NYXRjaGVzU2VsZWN0b3I7CgogICAgLyoqCiAgICAgKiBDaGVjayBpZiB0aGUgc2VsZWN0b3IgY2FuIGxhbmQgb24gdGhlIGVsZW1lbnQKICAgICAqIEBwYXJhbSBlbGVtZW50IHtvYmplY3R9IERPTSBlbGVtZW50IG9iamVjdAogICAgICogQHBhcmFtIHNlbGVjdG9yIHtzdHJpbmd9IENTUyBzZWxlY3RvciB0ZXh0CiAgICAgKiBAcmV0dXJucyB7Ym9vbGVhbn0KICAgICAqLwogICAgZnVuY3Rpb24gbWF0Y2hlc1NlbGVjdG9yKGVsZW1lbnQsIHNlbGVjdG9yKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgaWYoIWVsZW1lbnQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbWF0Y2hlcy5jYWxsKGVsZW1lbnQsIHNlbGVjdG9yKTsKICAgICAgICB9IGNhdGNoKGUpewogICAgICAgICAgICBjb25zb2xlLmxvZygnbWF0Y2hlc1NlbGVjdG9yIGVycm9yOiBlbGVtZW50OiAnICsgZWxlbWVudCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWxlY3RvcjogJyArIHNlbGVjdG9yKTsKICAgICAgICAgICAgbG9nRXJyb3IoZSk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Wy4uLnByb2Nlc3MuYXJndl0uZm9yRWFjaCgoYXJnLCBpKSA9PiB7CiAgY29uc29sZS5sb2coYCR7aX06ICR7YXJnfWApOwp9KTsKCnByb2Nlc3MuZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgIHZhciBlbGVtUHJvdG8gPSB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGU7CiAgICB2YXIgbWF0Y2hlcyA9IGVsZW1Qcm90by5tYXRjaGVzIHx8CiAgICAgIGVsZW1Qcm90by5tYXRjaFNlbGVjdG9yIHx8CiAgICAgIGVsZW1Qcm90by53ZWJraXRNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICBlbGVtUHJvdG8ubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgZWxlbVByb3RvLm9NYXRjaGVzU2VsZWN0b3I7CgogICAgLyoqCiAgICAgKiBDaGVjayBpZiB0aGUgc2VsZWN0b3IgY2FuIGxhbmQgb24gdGhlIGVsZW1lbnQKICAgICAqIEBwYXJhbSBlbGVtZW50IHtvYmplY3R9IERPTSBlbGVtZW50IG9iamVjdAogICAgICogQHBhcmFtIHNlbGVjdG9yIHtzdHJpbmd9IENTUyBzZWxlY3RvciB0ZXh0CiAgICAgKiBAcmV0dXJucyB7Ym9vbGVhbn0KICAgICAqLwogICAgZnVuY3Rpb24gbWF0Y2hlc1NlbGVjdG9yKGVsZW1lbnQsIHNlbGVjdG9yKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgaWYoIWVsZW1lbnQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbWF0Y2hlcy5jYWxsKGVsZW1lbnQsIHNlbGVjdG9yKTsKICAgICAgICB9IGNhdGNoKGUpewogICAgICAgICAgICBjb25zb2xlLmxvZygnbWF0Y2hlc1NlbGVjdG9yIGVycm9yOiBlbGVtZW50OiAnICsgZWxlbWVudCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWxlY3RvcjogJyArIHNlbGVjdG9yKTsKICAgICAgICAgICAgbG9nRXJyb3IoZSk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC9uby1pbnZhbGlkLXRoaXMiOiAxCg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm1vek1hdGNoZXNTZWxlY3RvciB8fAogICAgICB3aW5kb3cuRWxlbWVudC5wcm90b3R5cGUubXNNYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLm9NYXRjaGVzU2VsZWN0b3IgfHwKICAgICAgd2luZG93LkVsZW1lbnQucHJvdG90eXBlLndlYmtpdE1hdGNoZXNTZWxlY3RvciB8fAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaGVzXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzRnJvbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzRnJvbVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -238,6 +317,13 @@
         <entry encoding="base64">XDxzZXR1cFBhZ2VcPg==</entry>
         <entry encoding="base64">XDxlbGVtUHJvdG9cPg==</entry>
         <entry encoding="base64">XDxtYXRjaGVzXD4=</entry>
+        <entry encoding="base64">XDx1dGlsc1w+</entry>
+        <entry encoding="base64">XDxza2lwQ29tcGFyZVw+</entry>
+        <entry encoding="base64">XDxza2lwUHJvcGVydHlcPg==</entry>
+        <entry encoding="base64">XDxub2RlbGlzdFw+</entry>
+        <entry encoding="base64">XDx0b3RhbEVsZW1lbnRDb3VudFw+</entry>
+        <entry encoding="base64">XDxhbGxFbGVtZW50c1w+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzRnJvbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
