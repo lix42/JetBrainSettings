@@ -24,12 +24,6 @@
       <file name="/a.dummy" timestamp="1484293263647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/gulpfile.js" timestamp="1484375729945">
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="46" />
-        <mark key="." line="84" column="46" />
-        <mark key="^" line="86" column="17" />
-      </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/test/a_markup_analytics/a_markup_analytics.test.html.erb" timestamp="1484008180243">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="14" />
@@ -54,13 +48,6 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/phantom_scripts/phantomRun.js" timestamp="1484000525165">
-        <mark key="'" line="189" column="11" />
-        <mark key="[" line="189" column="31" />
-        <mark key="]" line="189" column="68" />
-        <mark key="^" line="189" column="68" />
-        <mark key="." line="189" column="68" />
-      </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/gulpfile.js" timestamp="1483996640630">
         <mark key="[" line="80" column="18" />
         <mark key="]" line="80" column="48" />
@@ -68,13 +55,13 @@
         <mark key="^" line="80" column="48" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_nodelist.js" timestamp="1484071567200">
-        <mark key="[" line="120" column="10" />
-        <mark key="]" line="121" column="46" />
-        <mark key="." line="121" column="46" />
-        <mark key="^" line="121" column="46" />
+        <mark key="[" line="119" column="10" />
+        <mark key="]" line="120" column="46" />
+        <mark key="." line="120" column="46" />
+        <mark key="^" line="120" column="46" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_metrics_utils.js" timestamp="1484071143862">
-        <mark key="]" line="303" column="0" />
+        <mark key="]" line="347" column="0" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUIMetricsRunner/src/consoleLogger.js" timestamp="1483997269994">
         <mark key="[" line="11" column="19" />
@@ -126,13 +113,6 @@
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/metrics/src/AmazonUIAdoptionQualityScripts/src/a_css_tools.js" timestamp="1484071337157">
-        <mark key="'" line="181" column="28" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="47" />
-        <mark key="." line="314" column="0" />
-        <mark key="^" line="168" column="1" />
       </file>
       <file name="$USER_HOME$/src/metrics/src/AmazonUITTIWatcher/test/nameTest.js" timestamp="1483990988266">
         <mark key="[" line="1" column="31" />
